@@ -27,9 +27,10 @@ This repository serves as a comprehensive guide for individuals aspiring to beco
 
 
 ## Study Material
+This section will provide an overview and reference content to understand  different frameworks and technologies required for Data Engineering field, their importance and the role of becoming a great Data Engineer!
+
 > Node: Some of the below resource links are not working, I am working to update them.
 
-- [References](#References)
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [Scala/Java](#scalajava)
@@ -57,9 +58,6 @@ This repository serves as a comprehensive guide for individuals aspiring to beco
 - [Interview Preparation](#interview-preparation)
 - [Contributing](#Contributing)
 
-## References
-
-This section will provide an overview of different frameworks and technologies required for Data Engineering field, its importance, and the role of becoming a great Data Engineer!
 
 ## Programming Languages
 
