@@ -1,9 +1,5 @@
 # data-engineer-roadmap
-Data Engineer Roadmap for 2024
-
-# Big Data Engineering Roadmap
-
-This repository serves as a comprehensive guide for individuals aspiring to become Big Data Engineers. It provides a detailed roadmap, recommended learning resources, and a collection of open-source projects to help you develop the necessary skills and gain hands-on experience.
+This repository serves as a comprehensive guide for individuals aspiring to become Data Engineers in 2024. It provides a detailed roadmap, recommended learning resources, and a collection of open-source projects to help you develop the necessary skills and gain hands-on experience.
 
 ### Some of the resource links are not working, I am working to update them.
 
