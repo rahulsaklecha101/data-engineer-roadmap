@@ -1,5 +1,26 @@
-# data-engineer-roadmap
+![Modern Data Engineer Roadmap 2024](img/title.png)
+
 This repository serves as a comprehensive guide for individuals aspiring to become Data Engineers in 2024. It provides a detailed roadmap, recommended learning resources, and a collection of open-source projects to help you develop the necessary skills and gain hands-on experience.
+
+> Roadmap to becoming a data engineer in 2024
+
+***
+
+<h3 align="center"><strong>Note to beginners</strong></h3>
+
+> Beginners shouldn’t feel overwhelmed by the vast number of tools and frameworks listed here. A typical data engineer would master a subset of these tools throughout several years depending on his/her company and career choices.
+
+***
+
+> [Text version for visually impaired users](text/roadmap.md)
+
+![Data Engineer Roadmap](img/roadmap.png)
+
+## Nice to have 😎
+
+> [Text version for visually impaired users](text/extras.md)
+
+![Data Engineer Roadmap Extras](img/extras.png)
 
 ### Some of the resource links are not working, I am working to update them.
 
@@ -162,4 +183,4 @@ This section will provide an overview of the Big Data Engineering field, its imp
 
 ## Contributing
 
-If you have any suggestions, improvements, or additional resources to share, please feel free to contribute to this repository.
+My main motive to setup this repository is to consolidate differeent knowledge sources in one place. I will continue to improve this but I'm also just a human and we live in a world full of evolving technologies. If you have any suggestions, improvements, or additional resources to share, please feel free to contribute to this repository.
