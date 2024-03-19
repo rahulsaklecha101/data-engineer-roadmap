@@ -22,11 +22,14 @@ This repository serves as a comprehensive guide for individuals aspiring to beco
 
 ![Data Engineer Roadmap Extras](img/extras.png)
 
-### Some of the resource links are not working, I am working to update them.
 
-## Table of Contents
+***
 
-- [Introduction](#introduction)
+
+## Study Material
+> Node: Some of the below resource links are not working, I am working to update them.
+
+- [References](#References)
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [Scala/Java](#scalajava)
@@ -52,11 +55,11 @@ This repository serves as a comprehensive guide for individuals aspiring to beco
 - [Soft Skills](#soft-skills)
 - [Projects and Certifications](#projects-and-certifications)
 - [Interview Preparation](#interview-preparation)
-- [Contributing](#contributing)
+- [Contributing](#Contributing)
 
-## Introduction
+## References
 
-This section will provide an overview of the Big Data Engineering field, its importance, and the role of a Big Data Engineer.
+This section will provide an overview of different frameworks and technologies required for Data Engineering field, its importance, and the role of becoming a great Data Engineer!
 
 ## Programming Languages
 
