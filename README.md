@@ -124,6 +124,8 @@ This section will provide an overview and reference content to understand  diffe
 
 ## Cloud Computing
 
+Detailed mapping of different product offerings from major cloud providers is available as part of [cloud-product-mapping](cloud-product-mapping/README.md)
+
 ### AWS
 
 - [AWS Big Data Services](https://aws.amazon.com/big-data/) - Overview of AWS big data services.
