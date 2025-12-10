@@ -1,8 +1,8 @@
-![Modern Data Engineer Roadmap 2024](img/title.png)
+![Modern Data Engineer Roadmap 2026](img/title.png)
 
-This repository serves as a comprehensive guide for individuals aspiring to become Data Engineers in 2024. It provides a detailed roadmap, recommended learning resources, and a collection of open-source projects to help you develop the necessary skills and gain hands-on experience.
+This repository serves as a comprehensive guide for individuals aspiring to become Data Engineers in 2026. It provides a detailed roadmap, recommended learning resources, and a collection of open-source projects to help you develop the necessary skills and gain hands-on experience.
 
-> Roadmap to becoming a data engineer in 2024
+> Roadmap to becoming a data engineer in 2026
 
 ***
 
