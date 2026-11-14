@@ -182,7 +182,7 @@ Detailed mapping of different product offerings from major cloud providers is av
 ## Interview Preparation
 
 - [Data Engineering Interview Questions](https://data-flair.training/blogs/data-engineering-interview-questions/) - Collection of data engineering interview questions.
-- [System Design Interview Questions](https://www.educative.io/courses/grokking-the-system-design-interview) - System design interview questions and resources.
+- [System Design Interview Questions](https://www.designgurus.io/course/grokking-the-system-design-interview) - System design interview questions and resources.
 
 ## Contributing
 
